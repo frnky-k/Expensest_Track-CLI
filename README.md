@@ -17,4 +17,4 @@
 #### How to Run:
 - Run with IDE : python expenses_track.py <br>
 ** Don't need to install any library <br>
-![example](D:\VSCODE\start-over\ExpenseTrack\ex.png)
+![example](ex.png)
